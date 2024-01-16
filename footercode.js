@@ -1,4 +1,3 @@
-<script>
 
 $(document).ready(function() {
   initCookieHandling();
@@ -87,5 +86,3 @@ function acceptCookiesAndReloadWidget() {
   CookieScript.instance.acceptAllAction();
   loadCalendlyWidget();
 }
-  
-</script>

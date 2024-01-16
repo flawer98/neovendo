@@ -1,4 +1,4 @@
-<script>
+
 // Funktion zur Überprüfung der Cookie-Zustimmung
 function isCookieConsentGiven() {
   // Überprüfe den Cookie-Wert oder den Zustand des Cookie-Script-Moduls
@@ -6,4 +6,3 @@ function isCookieConsentGiven() {
          CookieScript.instance.currentState().action === 'accept';
 }
 
-</script>

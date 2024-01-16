@@ -1,17 +1,4 @@
-
-.particles-js-canvas-el {
-position: absolute;
-max-width: 100%;
-max-height:100%;
-left: 0%;
-top: 0%;
-right: 0%;
-bottom: 0%;
-}</style>
-
-<script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script> 
-
-<script>
+src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"
 
 particlesJS(
     // this is the ID your particles container needs to have

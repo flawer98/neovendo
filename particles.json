@@ -1,7 +1,5 @@
-tsParticles.load({
-          id: "tsparticles",
-          options: {
-  "fullScreen": {
+{
+"fullScreen": {
     "zIndex": 1
   },
   "emitters": {
@@ -118,11 +116,11 @@ tsParticles.load({
             "speed": {
               "min": 33,
               "max": 66
-            }
-          }
-        }
-      }
-    }
-  ]
 }
-      });
+}
+}
+}
+}
+]
+          
+}

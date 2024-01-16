@@ -1,13 +1,3 @@
-src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"
-
-particlesJS(
-    // this is the ID your particles container needs to have
-	"particles-js",
-  
-  
-// Visit https://vincentgarreau.com/particles.js/ to get your code
-// Paste your code directly underneath this line
-
 {
   "autoPlay": true,
   "background": {
@@ -557,5 +547,3 @@ particlesJS(
     }
   }
 }
-  
-)

@@ -1,5 +1,8 @@
 
-$(document).ready(function() {
+/*
+
+
+  $(document).ready(function() {
   initCookieHandling();
   initIframes();
   initNavigationScroll();
@@ -11,6 +14,8 @@ function initCookieHandling() {
 
   isCookieConsentGiven() ? loadCalendlyWidget() : unloadCalendlyWidget();
 }
+
+*/
 
 function initIframes() {
   $(".w-richtext figure iframe, .w-embed-youtubevideo iframe, .w-video iframe").each(function() {
@@ -46,6 +51,8 @@ function letBodyScroll(menuIsOpen) {
   document.body.style.overflow = menuIsOpen ? 'hidden' : 'auto';
 }
 
+
+/*
 function loadCalendlyWidget() {
   if (isCookieConsentGiven()) {
     $.ajax({
